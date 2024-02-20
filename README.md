@@ -1,6 +1,6 @@
 ### Bienvenue sur mon profil !
 
-[GMastermind](https://github.com/DamienJUNG/Mastermind) | ```En Java```
+[Mastermind](https://github.com/DamienJUNG/Mastermind) | ```En Java```
 Jeu mastermind développé en Java swing.
 Réalisé en binôme sur 4 semaines.
 
