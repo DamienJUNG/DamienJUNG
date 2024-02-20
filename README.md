@@ -1,18 +1,13 @@
 ### Bienvenue sur mon profil !
 
-[Territoria](https://github.com/DamienJUNG/Territoria)
+[GMastermind](https://github.com/DamienJUNG/Mastermind) | ```En Java```
+Jeu mastermind développé en Java swing.
+Réalisé en binôme sur 4 semaines.
 
-<!--
-**DamienJUNG/DamienJUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Simulation d'un réseau local](https://github.com/DamienJUNG/SuperReso) | ```En C```
+Ce projet en C a pour objectif de simuler le comportement d'un réseau local en simulant le comportement de stations et de routeurs ainsi que l'envoi de trame.
+Réalisé en binôme sur 4 semaines.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Générateur Puml](https://github.com/DamienJUNG/GenerateurPuml) | ```En Java```
+Un générateur plantuml à partir de code source Java basé sur les doclet java.
+Réalisé en binôme sur 4 semaines.
