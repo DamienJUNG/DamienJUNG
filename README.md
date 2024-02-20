@@ -1,6 +1,6 @@
 ### Bienvenue sur mon profil !
 
-(Territoria)[https://github.com/DamienJUNG/Territoria]
+[Territoria](https://github.com/DamienJUNG/Territoria)
 
 <!--
 **DamienJUNG/DamienJUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
