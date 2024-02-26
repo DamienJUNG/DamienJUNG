@@ -1,4 +1,9 @@
-### Bienvenue sur mon profil !
+# Bienvenue sur mon profil !
+
+Bonjour et bienvenue sur mon profil.
+Je suis actuellement étudiant en deuxième année de BUT à l'IUT Robert Schuman, à Illkirch, vous pouvez retrouver ici quelques uns des projets auquels j'ai pu participer.
+
+# Mes projets
 
 [Mastermind](https://github.com/DamienJUNG/Mastermind) | ```En Java```
 Jeu mastermind développé en Java swing.
