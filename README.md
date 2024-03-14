@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil !
 
-Bonjour et bienvenue sur mon profil.
-Je suis actuellement étudiant en deuxième année de BUT à l'IUT Robert Schuman, à Illkirch, vous pouvez retrouver ici quelques-uns des projets auxquels j'ai pu participer.
+Je m'appelle Damien Jung et je suis actuellement étudiant en deuxième année de BUT à l'IUT Robert Schuman, à Illkirch.
+Vous pouvez retrouver ici quelques-uns des projets auxquels j'ai pu participer.
 
 # Mes projets
 
